@@ -3,3 +3,4 @@ update a WhatsApp
 	2. video code
 	3. chat screen
 	4. video call page
+	5. new icons
