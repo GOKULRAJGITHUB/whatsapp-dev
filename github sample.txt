@@ -4,3 +4,5 @@ update a WhatsApp
 	3. chat screen
 	4. video call page
 	5. new icons
+	6. video call
+	7.  audio call 
